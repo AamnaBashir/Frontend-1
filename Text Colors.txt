@@ -1,0 +1,7 @@
+$color-dark = #666;
+$color-darker = #333;
+$color-darkest = #111;
+
+$color-light = #999;
+$color-lighter = #aaa;
+$color-lightest = #bbb;
